@@ -8,8 +8,8 @@ Este projeto é um menu feito em Python que permite ao usuário escolher entre d
 O principal objetivo deste projeto é desenvolver uma solução automatizada para otimizar a operação e manutenção das estações de trens e metrôs
 
 O Menu é constituido por 5 funcionalidades, sendo elas:
-- *[1] Monitoramento em Tempo Real*
-- *[2] Gerar Alerta Automático*
-- *[3] Prever Falhas Operacionais*
-- *[4] Ver Relatórios de Performance*
-- *[5] Sair*
+- *[1] Iniciar Monitoramento Contínuo*
+- *[2] Exibir Status em Tempo Real*
+- *[3] Análise de Dados com IA*
+- *[4] Relatório de Anomalias*
+- *[5] Encerrar Sistema*
